@@ -14,3 +14,4 @@ jobs.zip
 libs.zip
 output
 tests/test_data
+*.pyc
