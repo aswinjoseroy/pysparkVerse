@@ -1,0 +1,6 @@
+{
+  "ingredient": "beef",
+  "input_data_location": "remote_url",
+  "input_file_url": "file:///...path/to/tests/test_data/input.json",
+  "task2_output_file_url": "file:///...path/to/output/result.csv"
+}
